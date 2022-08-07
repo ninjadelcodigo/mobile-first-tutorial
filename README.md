@@ -1,3 +1,3 @@
-##Tutorail Mobile-Fist (Introducción)
+## Tutorail Mobile-Fist (Introducción)
 
-#Author: ninjadelcodigo
+# Author: ninjadelcodigo
