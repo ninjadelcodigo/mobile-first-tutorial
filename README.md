@@ -1,3 +1,3 @@
-## Tutorail Mobile-First (Introducción)
+## Tutorial Mobile-First (Introducción)
 
-### Author: ninjadelcodigo
+### Autor: ninjadelcodigo
