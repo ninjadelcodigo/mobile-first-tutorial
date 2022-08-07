@@ -1,4 +1,4 @@
-## Tutorial Mobile-First (Lección #1 - Configurar entorno de desarrollo)
+## Tutorial Mobile-First (Lección #2 - Plantilla de HTM)
 
 # En esta lección
 * instalar VS Code (u otro editor de texto)

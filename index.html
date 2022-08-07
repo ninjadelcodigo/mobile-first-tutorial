@@ -4,9 +4,83 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="styles.css" />
-    <title>Cosmo Fan</title>
+    <title>Soccer Fan</title>
 </head>
 <body>
-    <p>hola ninjas</p>    
+    <nav class="site-nav grid">
+        <h1>Soccer Polls</h1>
+        <ul>
+            <li><a href="#polls"></a>Polls</li>
+            <li><a href="#organize"></a>Play</li>
+            <li><a href="#contact"></a>Contact</li>
+        </ul>
+    </nav>
+    <section id="welcome" class="grid">
+        <div class="welcome-text">
+            <h2>Play Soccer Fan Polls <br /> & Organize and Invite friends</h2>
+            <p class="leading">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+            <a href="#polls" class="button">View my Polls</a>
+        </div>
+        <div class="welcome-img">
+            <img src="assets/header.png" alt="" class="src">
+        </div>
+    </section>
+    <section id="polls">
+        <h3>Active Polls</h3>
+        <div class="polls grid">
+            <a href="#">
+                <img src="assets/champions.png" alt="champions league img">
+                <h4>Champions League</h4>
+            </a>
+            <a href="#">
+                <img src="assets/fifa.png" alt="world cup img">
+                <h4>World Cup</h4>
+            </a>
+            <a href="#">
+                <img src="assets/epl.png" alt="premier league img">
+                <h4>Premier League</h4>
+            </a>
+        </div>
+    </section>
+    <section id="actions">
+        <h3>Things I can do</h3>
+        <ul>
+            <li>
+                <img src="assets/ballaqua.png" alt="play">
+                <h4>Play</h4>
+            </li>
+            <li>
+                <img src="assets/ballblue.png" alt="organize">
+                <h4>Organize</h4>
+            </li>
+            <li>
+                <img src="assets/ballpurple.png" alt="invite">
+                <h4>Invite</h4>
+            </li>
+            <li>
+                <img src="assets/ballred.png" alt="rankings">
+                <h4>Rankings</h4>
+            </li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h3>Get in Touch</h3>
+        <p class="leading">Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+        <form action="">
+            <input type="text" placeholder="name">
+            <input type="email" placeholder="email">
+            <textarea placeholder="your message"></textarea>
+            <button class="button">Send kick</button>
+        </form>
+    </section>
+    <footer>
+        <div class="grid">
+            <p class="copyright">Copyright</p>
+            <ul class="social">
+                <li><a href=""><img src="assets/fb_icon.png" alt="facebook"></a></li>
+                <li><a href=""><img src="assets/tw_icon.png" alt="twitter"></a></li>
+            </ul>
+        </div>
+    </footer>
 </body>
 </html>
