@@ -1,3 +1,3 @@
-## Tutorail Mobile-Fist (Introducción)
+## Tutorail Mobile-First (Introducción)
 
 ### Author: ninjadelcodigo
